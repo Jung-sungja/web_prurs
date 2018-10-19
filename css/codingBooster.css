@@ -1,0 +1,21 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+	{
+		font-family: 'Nanum Gothic';
+	}
+	a	{
+			color: #000000;
+			text-decoration: none;
+		}
+		a:hover {
+			color: #bbbbbb;
+			text-decoration: none;
+			cursor: pointer;
+		}
+		/*내비게이션 영역*/
+		.navbar-default {/* 배경 색상 *
+			background-color: @000000;
+			border-color: #000000;
+		}
+	.navbar-default .navbar-brand {/* 내비게이션 제목 색상 */
+		color: #ffffff;
+	}
